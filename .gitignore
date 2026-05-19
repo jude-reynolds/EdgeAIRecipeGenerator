@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Session and inventory files generated at runtime
+session_*.json
+inventory.json
+
+# Old checkpoint formats
+checkpoints/*.h5
+checkpoints/*.weights.h5

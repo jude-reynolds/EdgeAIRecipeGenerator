@@ -1,0 +1,10 @@
+tensorflow>=2.14.0
+tensorflow-lite>=2.14.0
+opencv-python>=4.8.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+depthai>=2.33.0
+requests>=2.31.0
+Pillow>=10.0.0
